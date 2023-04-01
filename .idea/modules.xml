@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DataStruct.iml" filepath="$PROJECT_DIR$/DataStruct.iml" />
+      <module fileurl="file://$PROJECT_DIR$/formalCaculata/formalCaculata.iml" filepath="$PROJECT_DIR$/formalCaculata/formalCaculata.iml" />
+      <module fileurl="file://$PROJECT_DIR$/graph/graph.iml" filepath="$PROJECT_DIR$/graph/graph.iml" />
+    </modules>
+  </component>
+</project>
